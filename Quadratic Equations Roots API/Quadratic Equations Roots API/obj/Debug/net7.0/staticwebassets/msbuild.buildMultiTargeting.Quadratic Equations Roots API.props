@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="../build/Quadratic Equations Roots API.props" />
+</Project>

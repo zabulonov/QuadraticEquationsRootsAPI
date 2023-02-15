@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="../buildMultiTargeting/Quadratic Equations Roots API.props" />
+</Project>
